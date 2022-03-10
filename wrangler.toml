@@ -1,0 +1,8 @@
+name = "sample-worker-2"
+type = "javascript"
+
+account_id = "b3b6a9170e95e7d2694f728cfe832d2b"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-03-09"

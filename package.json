@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "sample-worker-2",
+  "version": "1.0.0",
+  "description": "A template for kick starting a Cloudflare Workers project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Leonoor Rinke de Wit <lrinkedewit@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "miniflare": "^2.3.0",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "node": "^17.5.0",
+    "websocket": "^1.0.34",
+    "ws": "^8.5.0"
+  }
+}
